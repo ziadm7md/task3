@@ -1,0 +1,18 @@
+body {
+    background-color: #282b30;
+    color: white;
+}
+.header {
+    text-align: center;
+}
+table {
+    background-color: white;
+    color: black;
+    width: 350px;
+}
+footer a{
+    margin-left: 30px;
+}
+.end{
+    text-align: center;
+}
